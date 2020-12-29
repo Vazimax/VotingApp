@@ -1,1 +1,1 @@
-#"A simple voting app" 
+A simple voting app =)
